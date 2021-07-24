@@ -1,8 +1,8 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
-const siteKeyword = "";
+const siteName = "Finding my mission";
+const siteShortName = "Mission Blog";
+const siteUrl = "https://sergiu-adrian.ro/";
+const siteDescription = "Mission is to find the mission";
+const siteKeyword = "Misiunea mea este sa imi gasesc misiunea";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
 
